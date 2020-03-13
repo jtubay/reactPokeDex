@@ -6,7 +6,7 @@ class Navbar extends Component {
       return(
           <div>
               <nav className="navbar narbar-expand-md navbar-dark bg-dark fixed-top">
-                  <a>PokeDex</a>
+                  <a className="navbar-brand col-sm-3 col-md-2 mr-0 align-item-center" href="google.com">PokeDex</a>
               </nav>
           </div>
       ) 
