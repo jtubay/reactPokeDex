@@ -11,6 +11,7 @@ class Navbar extends Component {
               
                 
                 <Link to="/" className="navbar-brand col-sm-3 col-md-2 mr-0 align-item-center" >PokeDex</Link>
+                <Link to="/" className="navbar-brand col-sm-3 col-md-2 mr-0 align-item-center" >Search</Link>
                 
               </nav>
           </div>
